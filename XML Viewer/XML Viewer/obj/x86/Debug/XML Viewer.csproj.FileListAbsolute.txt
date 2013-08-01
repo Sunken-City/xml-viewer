@@ -1,0 +1,13 @@
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\bin\Debug\XML Viewer.exe
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\bin\Debug\XML Viewer.pdb
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\MainWindow.baml
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\App.g.cs
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\XML Viewer_MarkupCompile.cache
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\XML Viewer.g.resources
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\XML_Viewer.Properties.Resources.resources
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\XML Viewer.exe
+C:\Users\acloudy\documents\visual studio 2010\Projects\XML Viewer\XML Viewer\obj\x86\Debug\XML Viewer.pdb
